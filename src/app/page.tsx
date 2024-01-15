@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>CRM system</main>;
+  return <main className=" text-sm">CRM system</main>;
 }
